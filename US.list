@@ -6,7 +6,9 @@ DOMAIN-SUFFIX,crunchyroll.com
 # > Discovery+
 USER-AGENT,discovery+*
 USER-AGENT,DPlus*
-
+# >Starz
+DOMAIN-SUFFIX,lionsgateplus.com
+DOMAIN-SUFFIX,starz.com
 # > Discovery+
 USER-AGENT,discovery+*
 USER-AGENT,DPlus*
